@@ -13,7 +13,7 @@ Giao diện 2 cột: Dễ sử dụng với bố cục rõ ràng.
 Hệ điều hành: Windows (file .exe chỉ chạy trên Windows).
 🖥️ Cách sử dụng
 1. Tải file .exe
-Tải file DanGiaoSuTool.exe từ mục Releases trên GitHub.
+[**📥 Tải xuống tại đây**](https://drive.google.com/file/d/1ULmKUt8EkGV-ieX4U89JyfK6jmLHUUrz/view?usp=sharing)
 2. Chạy file .exe
 Nhấp đúp vào file DanGiaoSuTool.exe để mở công cụ.
 Giao diện sẽ hiện lên, bạn có thể sử dụng ngay:
@@ -23,7 +23,9 @@ Nhập danh sách giá trị, lưu, và dùng phím tắt (F2 để tiến, F3 �
 3. Lưu ý
 File config.json sẽ được tạo tự động trong cùng thư mục với .exe để lưu cấu hình.
 Đảm bảo bạn có quyền ghi file trong thư mục chứa .exe.
-📷 Giao diện
+## 📷 Giao diện
+
+<img src="https://github.com/dangiaosu/UltilityToolV1.0/blob/main/tools.png?raw=true" alt="Giao diện Dan Giao Su Tool" width="500"/>
 
 
 -----------------------------------------------------------------
