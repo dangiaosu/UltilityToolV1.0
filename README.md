@@ -26,7 +26,7 @@ File config.json sẽ được tạo tự động trong cùng thư mục với .
 📷 Giao diện
 
 
-
+-----------------------------------------------------------------
 
 💳 Credit
 Đan Giáo Sư - Thích lùa gà nhưng ghét fake news.
